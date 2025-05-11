@@ -1,4 +1,4 @@
-#Anekdootti-generaattori
+# Anekdootti-generaattori
 Tämä projekti on yksinkertainen anekdoottien generointisovellus, joka on toteutettu Reactin ja Viten avulla. Sovelluksen avulla käyttäjä voi:
 
 Arpoa satunnaisen anekdootin
@@ -9,14 +9,14 @@ Nähdä reaaliajassa, kuinka monta ääntä kyseinen anekdootti on saanut
 
 Tarkastella, mikä anekdootti on saanut eniten ääniä
 
-##🔧 Teknologiat
+## 🔧 Teknologiat
 React — käyttöliittymän rakentamiseen
 
 Vite — nopeaan kehitysympäristöön
 
 Reactin useState-hook — tilanhallintaan
 
-##⚙️ Toiminnallisuus
+## ⚙️ Toiminnallisuus
 Sovellus esittää yhden satunnaisesti valitun anekdootin kerrallaan.
 
 Käyttäjä voi klikata "Vote"-painiketta antaakseen äänen näkyvälle anekdootille.
@@ -29,7 +29,7 @@ Tilanhallinta on toteutettu Reactin useState-hookin avulla.
 
 
 ## Äänestystä ennen
-[SHOWCASE!](/Showcase/Anecdootti1.png)
+![SHOWCASE](/Showcase/Anecdootti1.png)
 
 ## Äänestyksen jälkeen
-[SHOWCASE!](/Showcase/Anecdootti2.png)
+![SHOWCASE](/Showcase/Anecdootti2.png)
